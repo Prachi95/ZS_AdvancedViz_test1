@@ -99,7 +99,7 @@ def _z_score(values):
         return [1 / len(values) for x in values]
 
 def test():
-    print("hello")
+    return 1+2
 ####################bubble chart##########################
 # df = pd.read_csv('dummy_Data.csv')
 df = {'Months': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'],
