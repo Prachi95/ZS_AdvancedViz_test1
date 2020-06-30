@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'ZS_AdvancedViz_test1',         # How you named your package folder (MyLib)
   packages = ['ZS_AdvancedViz_test1'],   # Chose the same as "name"
-  version = '0.2',      # Start with a small number and increase it with every change you make
+  version = '2.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Python-based visualization library which provides ready to use functions to render different types of charts',   # Give a short description about your library
   author = 'Prachi',                   # Type in your name
